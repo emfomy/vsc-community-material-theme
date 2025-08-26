@@ -1,23 +1,14 @@
 {
-  "name": "vsc-community-material-theme",
-  "displayName": "Community Material Theme",
+  "name": "emfo-vsc-community-material-theme",
+  "displayName": "MY Community Material Theme",
   "description": "The official community maintained Material Theme with 'legacy' color schemes you love!",
-  "version": "1.4.5",
-  "publisher": "Equinusocio",
+  "version": "0.0.0",
+  "publisher": "emfo",
   "license": "Apache-2.0",
-  "author": "Mattia Astorino [@equinusocio]",
   "icon": "logo.png",
   "galleryBanner": {
     "color": "#11131C",
     "theme": "dark"
-  },
-  "homepage": "https://github.com/material-theme/vsc-community-material-theme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/material-theme/vsc-community-material-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/material-theme/vsc-community-material-theme/issues"
   },
   "engines": {
     "node": "<=10",
